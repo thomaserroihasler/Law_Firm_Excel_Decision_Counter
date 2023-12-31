@@ -2,7 +2,7 @@
 # Python Excel Data Processing Project
 
 ## Introduction
-This project is designed to read, process, and format data from an Excel file. It includes functionalities for extracting specific decision and case information from the data, processing this data, and then writing the results to a new Excel file with custom formatting.
+This project is designed to read, process, and format data from an Excel file for specific data from LKK (Lévy Kaufmann-Kohler)
 
 ## Prerequisites
 - Python 3.x
