@@ -1,5 +1,4 @@
 from collections import defaultdict
-from excel_operations import remove_inner_borders, fill_cells, set_outer_border, write_in_cells, cell_alignment, auto_adjust_column_width
 
 def apply_excel_formatting(writer, df):
     """
