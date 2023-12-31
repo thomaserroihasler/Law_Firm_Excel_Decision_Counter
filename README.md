@@ -2,7 +2,7 @@
 # Python Excel Data Processing Project
 
 ## Introduction
-This project is designed to read, process, and format data from an Excel file for specific data from LKK (Lévy Kaufmann-Kohler)
+At the request of a law firm, this project was designed to read, process, and format data from an Excel file listing decisions rendered by an international tribunal.
 
 ## Prerequisites
 - Python 3.x
